@@ -98,4 +98,4 @@ df -h / | awk "NR==2 {...}"
 
 O script foca apenas na segunda linha (NR==2) da saída do df, que contém os valores da partição raiz /, ignorando o cabeçalho.
 
-https://github.com/rafapcdev/DevOps
+https://roadmap.sh/projects/server-stats
