@@ -1,0 +1,3 @@
+FROM alpine:latest
+ENV NOME_DE_USUARIO="Rafael" 
+CMD ["/bin/sh", "-c", "echo Olá, $NOME_DE_USUARIO!"]
